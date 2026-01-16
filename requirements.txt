@@ -1,0 +1,11 @@
+transformers>=4.40.0
+torch>=2.0.0
+bertviz==1.4.0
+streamlit>=1.30.0
+pandas>=2.2.0
+numpy>=1.26.0
+plotly>=5.18.0
+datasets>=2.16.0
+streamlit==1.32.0
+pickle5==0.0.12
+
