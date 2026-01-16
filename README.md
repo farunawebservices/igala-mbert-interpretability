@@ -1,4 +1,3 @@
-@"
 ---
 title: Igala mBERT Interpretability
 emoji: 🔬
@@ -15,9 +14,7 @@ pinned: false
 Explore how multilingual BERT processes Igala vs English through attention pattern analysis.
 
 ## Features
-- Layer-by-layer attention visualization (12 layers)
-- Head-by-head analysis (12 attention heads per layer)
+- Layer-by-layer attention visualization
+- Head-by-head analysis
 - Side-by-side Igala vs English comparison
 - Interactive heatmaps with Plotly
-- Pre-computed attention patterns for fast inference
-"@ | Out-File -FilePath README.md -Encoding utf8
